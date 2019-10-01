@@ -38,5 +38,4 @@ export class ExchangeRatesComponent implements OnInit {
       this.response.error = result.errors;
     });
   }
-
 }
