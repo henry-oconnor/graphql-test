@@ -5,7 +5,7 @@ import gql from 'graphql-tag';
 class Response {
   rates: any[] = [];
   loading: boolean = true;
-  error: any = "";
+  error: any = '';
 }
 
 @Component({
